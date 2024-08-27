@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.nav-image {
+    height: 40px;
+    width: 40px;
+}
+
+#nav-href-link-1 {
+    color: #ffffff;
+}
+
+#nav-href-link-2 {
+    color: #ffffff;
+}
+
+#nav-href-link-3 {
+    color: #ffffff;
+}
+
+#nav-href-link-4 {
+    color: #ffffff;
+}
+
+#nav-href-link-5 {
+    color: #ffffff;
+}
+
+.fodd-munch-bg-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+
+
+}
+
+.fodd-munch-bg-image-head {
+    color: white;
+}
+
+.fodd-munch-bg-image-pera {
+    color: white;
+}
+
+
+
+
+
+
+.whychoose-bg-col {
+    background-color: white;
+
+}
+
+.whychoose-bg-col-head {
+    font-weight: bold;
+    margin-top: 40px;
+    padding-left: 25px;
+}
+
+.whychoose-bg-col-pera {
+    color: #959ead;
+    font-weight: bold;
+    padding-left: 25px;
+    padding-bottom: 30px;
+
+}
+
+.whychoose-bg-col-img {
+    height: 190px;
+    width: 190px;
+}
+
+.whychoose-bg-col-img-head {
+    color: #323f4b;
+}
+
+.whychoose-bg-col-img-pera {
+    color: #959ead;
+
+}
+
+.whychoose-bg-col-img-span {
+    color: black;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+.explore-bg-col {
+    background-color: white;
+}
+
+.explore-bg-col-head {
+    color: brown;
+    margin-top: 30px;
+    font-weight: 600;
+
+}
+
+.explore-bg-col-1 {
+    background-color: white;
+
+}
+
+.explore-bg-col-1-img {
+    width: 90%;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.explore-bg-col-1-img-pera-1 {
+    color: #1f2933;
+    font-weight: 600;
+    margin-top: 20px;
+
+}
+
+.explore-bg-col-1-img-pera-2 {
+    color: orange;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+.healthy-bg-col {
+    background-color: white;
+}
+
+.healthy-bg-col-button {
+    color: white;
+    width: 130px;
+}
+
+.healthy-bg-col-img {
+    width: 60%;
+}
+
+.healthy-bg-col-img-sub-image {
+    height: 50px;
+    width: 40px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+.follow-us-bg-col {
+    background-color: #faf7e8;
+    color: Orange;
+    border-radius: 150px;
+    width: 100px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.follow-us-bg-col-icon {
+    height: 60px;
+    width: 40px;
+}
+
+
+
+
+
+.footer-bg-col {
+    background-color: #0d2436;
+}
+
+.footer-bg-col-pera-1 {
+    color: #959ead;
+    font-weight: 700;
+    font-size: 30px;
+    font-family: "Roboto";
+    padding-top: 5px;
+}
+
+.footer-bg-col-pera-2 {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 20px;
+
+}
